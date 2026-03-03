@@ -5,7 +5,7 @@ Berikut versi yang benar-benar clean untuk file `README.md`:
 ```markdown
 💻 HackerRank Problem Solving Collection
 
-This repository contains my solutions to various HackerRank problems, mainly focused on **Problem Solving (Algorithms & Data Structures)** using **C++**.
+This repository contains my solutions to various HackerRank problems, mainly focused on Problem Solving (Algorithms & Data Structures) using C++.
 
 🚀 About This Repository
 
