@@ -1,7 +1,5 @@
 ---
 
-Berikut versi yang benar-benar clean untuk file `README.md`:
-
 ```markdown
 💻 HackerRank Problem Solving Collection
 
