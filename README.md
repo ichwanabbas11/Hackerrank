@@ -9,7 +9,7 @@ This repository contains my solutions to various HackerRank problems, mainly foc
 
 🚀 About This Repository
 
-- 📌 Language: **C++**
+- 📌 Language: C++
 - 🧠 Focus: Algorithms & Data Structures
 - ⭐ Current Badge: 4-Star Problem Solving
 - 🎯 Goal: Improve logical thinking, optimization skills, and competitive programming ability
